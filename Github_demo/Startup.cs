@@ -24,7 +24,6 @@ namespace Github_demo
         public void ConfigureServices(IServiceCollection services)
         {
 
-
             services.AddControllersWithViews();
         }
 
