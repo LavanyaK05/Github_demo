@@ -7,5 +7,7 @@ namespace Github_demo.Models
 {
     public class home
     {
+        int randomNumber = 5;
+        //Console.println("randomNumber");
     }
 }
